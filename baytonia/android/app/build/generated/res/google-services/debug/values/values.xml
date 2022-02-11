@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1025828174138-f66tovg5n4qnnlijut0lct8hm5fsq3c5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1025828174138</string>
+    <string name="google_api_key" translatable="false">AIzaSyAvsaX44mBg9aNzPfI0_CuWy5CcjHLMaG8</string>
+    <string name="google_app_id" translatable="false">1:1025828174138:android:c9b52ce1d9dd7533a8b803</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAvsaX44mBg9aNzPfI0_CuWy5CcjHLMaG8</string>
+    <string name="google_storage_bucket" translatable="false">baytonia-simicart-73f7f.appspot.com</string>
+    <string name="project_id" translatable="false">baytonia-simicart-73f7f</string>
+</resources>

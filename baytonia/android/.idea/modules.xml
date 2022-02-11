@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimiCart.iml" filepath="$PROJECT_DIR$/SimiCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/298618079/SimiCart.@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/298618079/SimiCart.@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2039419396/SimiCart.@react-native-community_cookies.iml" filepath="$PROJECT_DIR$/.idea/modules/2039419396/SimiCart.@react-native-community_cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2116148229/SimiCart.@react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-2116148229/SimiCart.@react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1473393856/SimiCart.@react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1473393856/SimiCart.@react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1986169198/SimiCart.@react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1986169198/SimiCart.@react-native-community_toolbar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-584376601/SimiCart.@react-native-community_voice.iml" filepath="$PROJECT_DIR$/.idea/modules/-584376601/SimiCart.@react-native-community_voice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2135689650/SimiCart.@sentry_react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/2135689650/SimiCart.@sentry_react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimiCart.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimiCart.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/381899918/SimiCart.react-native-awesome-card-io.iml" filepath="$PROJECT_DIR$/.idea/modules/381899918/SimiCart.react-native-awesome-card-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1730287418/SimiCart.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1730287418/SimiCart.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/69785296/SimiCart.react-native-fabric.iml" filepath="$PROJECT_DIR$/.idea/modules/69785296/SimiCart.react-native-fabric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1415218445/SimiCart.react-native-fbsdk-next.iml" filepath="$PROJECT_DIR$/.idea/modules/1415218445/SimiCart.react-native-fbsdk-next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/197591922/SimiCart.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/197591922/SimiCart.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/914965691/SimiCart.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/914965691/SimiCart.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-721229781/SimiCart.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-721229781/SimiCart.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-77701741/SimiCart.react-native-mixpanel.iml" filepath="$PROJECT_DIR$/.idea/modules/-77701741/SimiCart.react-native-mixpanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-637973949/SimiCart.react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/-637973949/SimiCart.react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-265547647/SimiCart.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-265547647/SimiCart.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-620515324/SimiCart.react-native-restart.iml" filepath="$PROJECT_DIR$/.idea/modules/-620515324/SimiCart.react-native-restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-44013700/SimiCart.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-44013700/SimiCart.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1356753351/SimiCart.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1356753351/SimiCart.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/904037627/SimiCart.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/904037627/SimiCart.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1192222216/SimiCart.react-native-version-check.iml" filepath="$PROJECT_DIR$/.idea/modules/1192222216/SimiCart.react-native-version-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-785071122/SimiCart.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-785071122/SimiCart.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

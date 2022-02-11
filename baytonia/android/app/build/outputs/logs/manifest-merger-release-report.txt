@@ -1,0 +1,1246 @@
+-- Merging decision tree log ---
+provider#com.facebook.FacebookContentProvider
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:67:9-70:35
+	android:authorities
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:69:9-102
+	android:exported
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:70:9-32
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:68:9-60
+manifest
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:2:1-19:12
+MERGED from [:@react-native-community_voice] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/voice/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-mixpanel] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-mixpanel/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_cookies] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/cookies/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-restart] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:@react-native-community_geolocation] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-24:12
+MERGED from [:@react-native-community_netinfo] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-splash-screen] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fbsdk-next] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-fbsdk-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:1-28:12
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-onesignal] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-onesignal/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1262f7739e2a94e364dfb262d7bc45bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/55922d49fc3106ad595282b226af62d7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-appindexing:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9f8d6a0b36e363bb27b6a41fca6fbb53/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:2:1-106:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/cb8b371df93eef1639b80d0ec631ce8c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4abb459fc3c0ec90e2002b93cf2d9d97/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9e3e15d8d389d8a6ecfc2899ee742e9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/07955f51951c24376456bf8b91eb781e/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:17:1-29:12
+MERGED from [com.facebook.android:facebook-android-sdk:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/630a7b9c1688949f7b18a247a2102fea/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/03f0450958a1a208ee7dacd2cfedce02/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-gamingservices:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d204ffc14caa98baaf095501615db64/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d887ab226ae420d58e287613d65eca24/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:21:1-52:12
+MERGED from [com.facebook.android:facebook-applinks:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/730f5fcd132587e2c4c84ca2ee684e71/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a1027630741168a0deebe5a41b82cb46/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:21:1-60:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/03f0dc7e73fbb79a4325611bc21d7ce0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d76b89047c90e866e91ead6df3394f73/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/76d2255f8f3238ab3fd79cb3e014f9e0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f362e1878d57e856c4d233cc020274a8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/477ccd2a812c1a783b5e4fd43095fa82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/58a00f4c2938a5756466a64583717779/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/55a62943c929fc59f6fa85ffeb1d7d42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f39188abd666aa82f2d4732979ae9523/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/87ab773e8bf3db0d884f809cd59bf262/AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d75427963bcb2680dbfad4054eb595a/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/92440ddde11cf2178c92c1466268c7e5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5958c880678f766064bb5046370508b2/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/78ff3b3964a3fe21109a0378e579bacf/AndroidManifest.xml:22:1-33:12
+MERGED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:2:1-82:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d82ba1d3e2732b92aa94d54a55960156/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7a6f9ac35f722e24b6eebc5bccbf8445/AndroidManifest.xml:2:1-9:12
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/349623986a38ebfef83c9e37105c8f5c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9103c0841691de1c41d163cc911b38d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0aa4c12e749eddedffad39d4f57e2e8d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/de18bd449857f2f9d1c727c1d6644f53/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/647e24c73c9a5a2f86c98e1646d81bbc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7696c521691a91d341170d928c74d9a5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7f52a67317394ea16cf6e1ac38725fcf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/34b0b71c77fbdc40e4cfa826f865e3d0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/dd3018126dc5c7c6e3c95a6daa4756fb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4f90e4adb5bd3c28afbb9b0aca68104a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/399ce71dce231e45e04450beedecc96c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d01d36832a2de93549326fdfadba28f9/AndroidManifest.xml:17:1-24:12
+MERGED from [io.sentry:sentry-android:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/59ffcaf2da13829a96c08cfa0abd17cf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5d5d0b77d8f428fe2970e13918269159/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/2087c6a6a4a6ca1dcb0b89a86a938ecf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/17e062fab4d0f1899e3c80575bc946b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/fd0e157b174a536362639c1b48f4b942/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d5276f12c6ec39951786c3e117f2928a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df0e01a7c7e7458d108c608e683a134f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b137acfdcf321c1f80cf236209b64f5d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/feac085549e66eda1a0b234023873e20/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/43615d1d3c0bef6f4cf00db75e20b25e/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/95943e2097135adcd4c327370c4555f2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d0692774bd991a008f0b193cd159e4fa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7f015dcfac755506478d8e7ec8cc8e9e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/48ac1df23726acd69e6612eb76931d89/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1e0167bf5fb20d4883099a64550da1e4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0b14e602b30f3d7fae63acedb00d8d09/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/537b7bbfdaa07826463ba254a3b98371/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/6bcf451b842fa34e19c6ac2856ba87a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/de5af3e5e221729dcea702a8217e3981/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/07078ddbba6e87afe570a4cfb5447e09/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a81a8e20f7df1fd3582ec523c0be5211/AndroidManifest.xml:17:1-22:12
+MERGED from [io.sentry:sentry-android-ndk:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9dbacd97609b15a6592956fed3143ec8/AndroidManifest.xml:2:1-9:12
+MERGED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.media:media:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/bca3ae8d76eb6035feb48bbc17c2fb53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/989ba577ada347cb11122ffc101a5b07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b62da217212489d1f7dedff094c30e54/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0f3574ad1e544bbaa3daeccac12e3f9b/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/985583bbecdfe0dac7519740f83e4bbc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9f070d1e71f346301c43bc382877e9bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a910eacce3ed293953e68609d54b6dd2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8fc44ad4b251e3e5c75ef36c8edc34b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7ab5b0cbed7d5c9f92725fb3ffc9417f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/16ec3c2b11c819b9127bf4327ad4e55f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a55e56c2f37748dfb9de4c2dca7a10d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c1e94e41f470001c175fcc742a43a017/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a488c84ae4cb32c6830423e3687b2e9d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d262ff77e6935f2c4cf19ecbbf77640/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e68339f074b3cdc747fca91ec6d6c6a3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/3e6ebc97c83afa3a928a12de196a5b04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0a1602629f9bd905cdb7c2731d1396d6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1e98a313e5af9e3916ba23032a50c3bb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f2e94622122662f9476c63e42d949eb7/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7066123762248010b04464ea8350b89a/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+	package
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:1-87:12
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:9:5-67
+MERGED from [:@react-native-community_voice] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/voice/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
+MERGED from [:@react-native-community_voice] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/voice/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:24:5-67
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:16:5-67
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d75427963bcb2680dbfad4054eb595a/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d75427963bcb2680dbfad4054eb595a/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/92440ddde11cf2178c92c1466268c7e5/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/92440ddde11cf2178c92c1466268c7e5/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5958c880678f766064bb5046370508b2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5958c880678f766064bb5046370508b2/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/78ff3b3964a3fe21109a0378e579bacf/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/78ff3b3964a3fe21109a0378e579bacf/AndroidManifest.xml:29:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:10:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:23:5-67
+MERGED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:9:5-67
+MERGED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:10:5-65
+MERGED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-65
+MERGED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-65
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:9:5-65
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:10:22-62
+application
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:13:5-85:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:11:5-17:19
+MERGED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-18:19
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-18:19
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/55922d49fc3106ad595282b226af62d7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/55922d49fc3106ad595282b226af62d7/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-appindexing:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9f8d6a0b36e363bb27b6a41fca6fbb53/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9f8d6a0b36e363bb27b6a41fca6fbb53/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:26:5-20
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:48:5-104:19
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:48:5-104:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/cb8b371df93eef1639b80d0ec631ce8c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/cb8b371df93eef1639b80d0ec631ce8c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4abb459fc3c0ec90e2002b93cf2d9d97/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4abb459fc3c0ec90e2002b93cf2d9d97/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9e3e15d8d389d8a6ecfc2899ee742e9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9e3e15d8d389d8a6ecfc2899ee742e9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/07955f51951c24376456bf8b91eb781e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/07955f51951c24376456bf8b91eb781e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.android:facebook-android-sdk:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/630a7b9c1688949f7b18a247a2102fea/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/630a7b9c1688949f7b18a247a2102fea/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/03f0450958a1a208ee7dacd2cfedce02/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/03f0450958a1a208ee7dacd2cfedce02/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-gamingservices:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d204ffc14caa98baaf095501615db64/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-gamingservices:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d204ffc14caa98baaf095501615db64/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d887ab226ae420d58e287613d65eca24/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d887ab226ae420d58e287613d65eca24/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-applinks:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/730f5fcd132587e2c4c84ca2ee684e71/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/730f5fcd132587e2c4c84ca2ee684e71/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a1027630741168a0deebe5a41b82cb46/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a1027630741168a0deebe5a41b82cb46/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:28:5-58:19
+MERGED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:28:5-58:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/76d2255f8f3238ab3fd79cb3e014f9e0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/76d2255f8f3238ab3fd79cb3e014f9e0/AndroidManifest.xml:22:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d75427963bcb2680dbfad4054eb595a/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d75427963bcb2680dbfad4054eb595a/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/92440ddde11cf2178c92c1466268c7e5/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/92440ddde11cf2178c92c1466268c7e5/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5958c880678f766064bb5046370508b2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5958c880678f766064bb5046370508b2/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/78ff3b3964a3fe21109a0378e579bacf/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/78ff3b3964a3fe21109a0378e579bacf/AndroidManifest.xml:31:5-20
+MERGED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:15:5-80:19
+MERGED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:15:5-80:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d82ba1d3e2732b92aa94d54a55960156/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d82ba1d3e2732b92aa94d54a55960156/AndroidManifest.xml:11:5-20
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:19:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/349623986a38ebfef83c9e37105c8f5c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/349623986a38ebfef83c9e37105c8f5c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9103c0841691de1c41d163cc911b38d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9103c0841691de1c41d163cc911b38d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0aa4c12e749eddedffad39d4f57e2e8d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0aa4c12e749eddedffad39d4f57e2e8d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/de18bd449857f2f9d1c727c1d6644f53/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/de18bd449857f2f9d1c727c1d6644f53/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/647e24c73c9a5a2f86c98e1646d81bbc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/647e24c73c9a5a2f86c98e1646d81bbc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7696c521691a91d341170d928c74d9a5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7696c521691a91d341170d928c74d9a5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7f52a67317394ea16cf6e1ac38725fcf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7f52a67317394ea16cf6e1ac38725fcf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/34b0b71c77fbdc40e4cfa826f865e3d0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/34b0b71c77fbdc40e4cfa826f865e3d0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/43615d1d3c0bef6f4cf00db75e20b25e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/43615d1d3c0bef6f4cf00db75e20b25e/AndroidManifest.xml:11:5-20
+MERGED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:11:5-23:19
+MERGED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:11:5-23:19
+MERGED from [androidx.core:core:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b62da217212489d1f7dedff094c30e54/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b62da217212489d1f7dedff094c30e54/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0f3574ad1e544bbaa3daeccac12e3f9b/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0f3574ad1e544bbaa3daeccac12e3f9b/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:24:5-30:19
+	android:appComponentFactory
+		REJECTED from [androidx.core:core:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b62da217212489d1f7dedff094c30e54/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/630a7b9c1688949f7b18a247a2102fea/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:largeHeap
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:14:9-33
+	android:icon
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:17:9-45
+	tools:remove
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:theme
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:19:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.simicart.MainActivity
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:21:9-48:20
+	android:label
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:24:13-45
+	android:launchMode
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:26:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:23:13-83
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:29:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:FB_SCHEME
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:31:13-38:29
+	android:autoVerify
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:32:17-42
+action#android.intent.action.VIEW
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:35:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:36:27-75
+data
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:37:17-52
+	android:host
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:45:23-50
+	android:scheme
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:37:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:baytonia.com+data:host:baytonia.com+data:scheme:http+data:scheme:https
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:39:13-47:29
+	android:autoVerify
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:40:17-42
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:49:9-86
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:49:19-83
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:56:9-60:19
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:56:18-92
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:57:13-59:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:58:25-77
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:61:9-104
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:61:18-101
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:63:9-65:52
+	android:resource
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:65:9-49
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:64:9-79
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:72:9-74:51
+	android:value
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:74:9-48
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:73:9-54
+meta-data#io.fabric.ApiKey
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:76:9-78:68
+	android:value
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:78:9-65
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:77:9-40
+uses-library#org.apache.http.legacy
+ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:80:9-82:36
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:82:9-33
+	android:name
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml:81:9-46
+uses-sdk
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:7:5-43
+MERGED from [:@react-native-community_voice] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/voice/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-11:54
+MERGED from [:@react-native-community_voice] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/voice/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-mixpanel] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-mixpanel/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-mixpanel] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-mixpanel/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_cookies] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/cookies/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_cookies] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/cookies/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-restart] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_geolocation] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_netinfo] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fbsdk-next] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-fbsdk-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk-next] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-fbsdk-next/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-onesignal] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-onesignal/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-onesignal] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-onesignal/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1262f7739e2a94e364dfb262d7bc45bc/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1262f7739e2a94e364dfb262d7bc45bc/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/55922d49fc3106ad595282b226af62d7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/55922d49fc3106ad595282b226af62d7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9f8d6a0b36e363bb27b6a41fca6fbb53/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9f8d6a0b36e363bb27b6a41fca6fbb53/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:20:5-44
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:4:5-44
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/cb8b371df93eef1639b80d0ec631ce8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/cb8b371df93eef1639b80d0ec631ce8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4abb459fc3c0ec90e2002b93cf2d9d97/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4abb459fc3c0ec90e2002b93cf2d9d97/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9e3e15d8d389d8a6ecfc2899ee742e9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9e3e15d8d389d8a6ecfc2899ee742e9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/07955f51951c24376456bf8b91eb781e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/07955f51951c24376456bf8b91eb781e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/630a7b9c1688949f7b18a247a2102fea/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/630a7b9c1688949f7b18a247a2102fea/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/03f0450958a1a208ee7dacd2cfedce02/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/03f0450958a1a208ee7dacd2cfedce02/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-gamingservices:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d204ffc14caa98baaf095501615db64/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-gamingservices:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d204ffc14caa98baaf095501615db64/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d887ab226ae420d58e287613d65eca24/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d887ab226ae420d58e287613d65eca24/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-applinks:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/730f5fcd132587e2c4c84ca2ee684e71/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/730f5fcd132587e2c4c84ca2ee684e71/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a1027630741168a0deebe5a41b82cb46/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a1027630741168a0deebe5a41b82cb46/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/03f0dc7e73fbb79a4325611bc21d7ce0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/03f0dc7e73fbb79a4325611bc21d7ce0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d76b89047c90e866e91ead6df3394f73/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d76b89047c90e866e91ead6df3394f73/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/76d2255f8f3238ab3fd79cb3e014f9e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/76d2255f8f3238ab3fd79cb3e014f9e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f362e1878d57e856c4d233cc020274a8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f362e1878d57e856c4d233cc020274a8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/477ccd2a812c1a783b5e4fd43095fa82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/477ccd2a812c1a783b5e4fd43095fa82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/58a00f4c2938a5756466a64583717779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/58a00f4c2938a5756466a64583717779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/55a62943c929fc59f6fa85ffeb1d7d42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/55a62943c929fc59f6fa85ffeb1d7d42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f39188abd666aa82f2d4732979ae9523/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f39188abd666aa82f2d4732979ae9523/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/87ab773e8bf3db0d884f809cd59bf262/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/87ab773e8bf3db0d884f809cd59bf262/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d75427963bcb2680dbfad4054eb595a/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d75427963bcb2680dbfad4054eb595a/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/92440ddde11cf2178c92c1466268c7e5/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/92440ddde11cf2178c92c1466268c7e5/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5958c880678f766064bb5046370508b2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5958c880678f766064bb5046370508b2/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/78ff3b3964a3fe21109a0378e579bacf/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/78ff3b3964a3fe21109a0378e579bacf/AndroidManifest.xml:27:5-43
+MERGED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d82ba1d3e2732b92aa94d54a55960156/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d82ba1d3e2732b92aa94d54a55960156/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7a6f9ac35f722e24b6eebc5bccbf8445/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7a6f9ac35f722e24b6eebc5bccbf8445/AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/349623986a38ebfef83c9e37105c8f5c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/349623986a38ebfef83c9e37105c8f5c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9103c0841691de1c41d163cc911b38d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a9103c0841691de1c41d163cc911b38d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0aa4c12e749eddedffad39d4f57e2e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0aa4c12e749eddedffad39d4f57e2e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/de18bd449857f2f9d1c727c1d6644f53/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/de18bd449857f2f9d1c727c1d6644f53/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/647e24c73c9a5a2f86c98e1646d81bbc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/647e24c73c9a5a2f86c98e1646d81bbc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7696c521691a91d341170d928c74d9a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7696c521691a91d341170d928c74d9a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7f52a67317394ea16cf6e1ac38725fcf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7f52a67317394ea16cf6e1ac38725fcf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/34b0b71c77fbdc40e4cfa826f865e3d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/34b0b71c77fbdc40e4cfa826f865e3d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/dd3018126dc5c7c6e3c95a6daa4756fb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/dd3018126dc5c7c6e3c95a6daa4756fb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4f90e4adb5bd3c28afbb9b0aca68104a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4f90e4adb5bd3c28afbb9b0aca68104a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/399ce71dce231e45e04450beedecc96c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/399ce71dce231e45e04450beedecc96c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d01d36832a2de93549326fdfadba28f9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d01d36832a2de93549326fdfadba28f9/AndroidManifest.xml:20:5-22:41
+MERGED from [io.sentry:sentry-android:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/59ffcaf2da13829a96c08cfa0abd17cf/AndroidManifest.xml:6:5-9:57
+MERGED from [io.sentry:sentry-android:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/59ffcaf2da13829a96c08cfa0abd17cf/AndroidManifest.xml:6:5-9:57
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5d5d0b77d8f428fe2970e13918269159/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5d5d0b77d8f428fe2970e13918269159/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/2087c6a6a4a6ca1dcb0b89a86a938ecf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/2087c6a6a4a6ca1dcb0b89a86a938ecf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/17e062fab4d0f1899e3c80575bc946b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/17e062fab4d0f1899e3c80575bc946b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/fd0e157b174a536362639c1b48f4b942/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/fd0e157b174a536362639c1b48f4b942/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d5276f12c6ec39951786c3e117f2928a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d5276f12c6ec39951786c3e117f2928a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df0e01a7c7e7458d108c608e683a134f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df0e01a7c7e7458d108c608e683a134f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b137acfdcf321c1f80cf236209b64f5d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b137acfdcf321c1f80cf236209b64f5d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/feac085549e66eda1a0b234023873e20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/feac085549e66eda1a0b234023873e20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/43615d1d3c0bef6f4cf00db75e20b25e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/43615d1d3c0bef6f4cf00db75e20b25e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/95943e2097135adcd4c327370c4555f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/95943e2097135adcd4c327370c4555f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d0692774bd991a008f0b193cd159e4fa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d0692774bd991a008f0b193cd159e4fa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7f015dcfac755506478d8e7ec8cc8e9e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7f015dcfac755506478d8e7ec8cc8e9e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/48ac1df23726acd69e6612eb76931d89/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/48ac1df23726acd69e6612eb76931d89/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1e0167bf5fb20d4883099a64550da1e4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1e0167bf5fb20d4883099a64550da1e4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0b14e602b30f3d7fae63acedb00d8d09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0b14e602b30f3d7fae63acedb00d8d09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/537b7bbfdaa07826463ba254a3b98371/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/537b7bbfdaa07826463ba254a3b98371/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/6bcf451b842fa34e19c6ac2856ba87a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/6bcf451b842fa34e19c6ac2856ba87a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/de5af3e5e221729dcea702a8217e3981/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/de5af3e5e221729dcea702a8217e3981/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/07078ddbba6e87afe570a4cfb5447e09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/07078ddbba6e87afe570a4cfb5447e09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a81a8e20f7df1fd3582ec523c0be5211/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a81a8e20f7df1fd3582ec523c0be5211/AndroidManifest.xml:20:5-44
+MERGED from [io.sentry:sentry-android-ndk:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9dbacd97609b15a6592956fed3143ec8/AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-ndk:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9dbacd97609b15a6592956fed3143ec8/AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/bca3ae8d76eb6035feb48bbc17c2fb53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/bca3ae8d76eb6035feb48bbc17c2fb53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/989ba577ada347cb11122ffc101a5b07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/989ba577ada347cb11122ffc101a5b07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b62da217212489d1f7dedff094c30e54/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/b62da217212489d1f7dedff094c30e54/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0f3574ad1e544bbaa3daeccac12e3f9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0f3574ad1e544bbaa3daeccac12e3f9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/985583bbecdfe0dac7519740f83e4bbc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/985583bbecdfe0dac7519740f83e4bbc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9f070d1e71f346301c43bc382877e9bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/9f070d1e71f346301c43bc382877e9bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a910eacce3ed293953e68609d54b6dd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a910eacce3ed293953e68609d54b6dd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8fc44ad4b251e3e5c75ef36c8edc34b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8fc44ad4b251e3e5c75ef36c8edc34b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7ab5b0cbed7d5c9f92725fb3ffc9417f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7ab5b0cbed7d5c9f92725fb3ffc9417f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/16ec3c2b11c819b9127bf4327ad4e55f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/16ec3c2b11c819b9127bf4327ad4e55f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a55e56c2f37748dfb9de4c2dca7a10d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a55e56c2f37748dfb9de4c2dca7a10d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c1e94e41f470001c175fcc742a43a017/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c1e94e41f470001c175fcc742a43a017/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a488c84ae4cb32c6830423e3687b2e9d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a488c84ae4cb32c6830423e3687b2e9d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d262ff77e6935f2c4cf19ecbbf77640/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7d262ff77e6935f2c4cf19ecbbf77640/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e68339f074b3cdc747fca91ec6d6c6a3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e68339f074b3cdc747fca91ec6d6c6a3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/3e6ebc97c83afa3a928a12de196a5b04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/3e6ebc97c83afa3a928a12de196a5b04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0a1602629f9bd905cdb7c2731d1396d6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/0a1602629f9bd905cdb7c2731d1396d6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1e98a313e5af9e3916ba23032a50c3bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/1e98a313e5af9e3916ba23032a50c3bb/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f2e94622122662f9476c63e42d949eb7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f2e94622122662f9476c63e42d949eb7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7066123762248010b04464ea8350b89a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/7066123762248010b04464ea8350b89a/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:@react-native-community_voice] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/voice/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/src/main/AndroidManifest.xml
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/14179a47a7fe6f76dbb7b78ddb5a2477/AndroidManifest.xml:13:13-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:@react-native-community_voice] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/voice/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from [:@react-native-community_voice] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/voice/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-68
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:17-67
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+uses-permission#android.permission.VIBRATE
+ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-66
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:23:5-66
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:23:5-66
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:10:5-66
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-63
+uses-feature#android.hardware.camera
+ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-16:36
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:12:5-14:36
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-19:36
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:15:5-17:36
+MERGED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:react-native-awesome-card-io] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-awesome-card-io/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-53
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:@react-native-community_netinfo] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:23:5-79
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:24:5-79
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:@react-native-community_netinfo] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:@react-native-community_netinfo] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:@react-native-community_netinfo] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+meta-data#io.sentry.auto-init
+ADDED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-17:37
+	android:value
+		ADDED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-34
+	android:name
+		ADDED from [:@sentry_react-native] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:18:5-68
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:18:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/636310094a92d301e9bb584cb4210235/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-116
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/272fc2ee805d77d680d5df776cdb91df/AndroidManifest.xml:28:9-32
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:23:5-82
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:17:5-82
+MERGED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:17:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ee5e4569cc425b92c160273d5420dc9a/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:8:9-63
+permission#com.simicart.baytonia.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:11:22-76
+uses-permission#com.simicart.baytonia.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:29:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:31:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:32:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:33:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:34:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:35:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:36:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:36:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:37:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:37:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:38:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:39:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:39:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:40:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:40:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:41:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:41:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:43:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:44:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:45:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:45:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:46:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:46:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:49:9-51:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:50:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:53:9-55:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:55:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:54:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:57:9-67:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:59:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:58:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:62:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.simicart.baytonia
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:62:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:63:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:63:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:65:27-58
+category#com.simicart.baytonia
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:65:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:68:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:68:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:70:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:70:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:71:9-73:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:72:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:74:9-76:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:76:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:75:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:77:9-79:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:79:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:78:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:80:9-82:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:82:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:81:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:83:9-85:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:85:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:84:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:87:9-89:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:89:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:88:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:91:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:91:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:93:9-98:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:93:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:94:13-97:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:95:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:95:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:96:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:96:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:99:9-103:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:99:19-63
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:100:13-102:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:101:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.13.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5c7257029eaa1a72e56f21e0de966875/AndroidManifest.xml:101:25-81
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/a3da546df8b069b91d319162c470ea81/AndroidManifest.xml:32:25-75
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c794a0fdbc874157429a4716b81c634d/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/4a4a3f84c766e3fd252896b5f1213a1a/AndroidManifest.xml:41:13-43:29
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/082df2f1a9d384c5db39615d1cb8ce03/AndroidManifest.xml:24:13-79
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.simicart.baytonia+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/f17a2bc359e584a81b878d61074790b2/AndroidManifest.xml:39:13-48:29
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:48:25-92
+receiver#com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:51:9-57:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:52:13-118
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:54:13-56:29
+action#com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:55:17-103
+	android:name
+		ADDED from [com.facebook.android:facebook-core:12.3.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/c238eee7a04ac87c7a378f1d6ed81441/AndroidManifest.xml:55:25-100
+activity#com.mixpanel.android.mpmetrics.MixpanelNotificationRouteActivity
+ADDED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:75:9-76:20
+	android:name
+		ADDED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:75:19-98
+receiver#com.mixpanel.android.mpmetrics.MixpanelPushNotificationDismissedReceiver
+ADDED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:78:9-79:20
+	android:name
+		ADDED from [com.mixpanel.android:mixpanel-android:5.8.5] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/df8230067850969dd7546a6d16967180/AndroidManifest.xml:78:19-106
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d82ba1d3e2732b92aa94d54a55960156/AndroidManifest.xml:9:5-110
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/d82ba1d3e2732b92aa94d54a55960156/AndroidManifest.xml:9:22-107
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:21:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/5bef98b0a191e73d2851d10fc13eed66/AndroidManifest.xml:23:19-67
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/85ab24cfae10b1bed4001eb36fe87676/AndroidManifest.xml:13:13-77
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/be4fb519f9e17109bff6138100f4121a/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/e8f66e4d0b677044bd5fd53cf21f4256/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/34b0b71c77fbdc40e4cfa826f865e3d0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/34b0b71c77fbdc40e4cfa826f865e3d0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/34b0b71c77fbdc40e4cfa826f865e3d0/AndroidManifest.xml:24:13-58
+provider#io.sentry.android.core.SentryInitProvider
+ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:14:9-17:40
+	android:authorities
+		ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:16:13-70
+	android:exported
+		ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:15:13-69
+provider#io.sentry.android.core.SentryPerformanceProvider
+ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:20:13-77
+	android:exported
+		ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [io.sentry:sentry-android-core:5.5.2] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/8182ea6f53211f6affaa968afcef16e5/AndroidManifest.xml:19:13-76
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/Xcloud/.gradle/caches/transforms-2/files-2.1/ce2113eecffbec9396955f7858156b71/AndroidManifest.xml:26:13-79

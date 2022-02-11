@@ -1,0 +1,7 @@
+#Fri Jan 28 14:27:10 ICT 2022
+base.1=/Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+base.0=/Users/Xcloud/SimiCart/ReactNative/temps/193510e35bf81956996aa49093954075/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

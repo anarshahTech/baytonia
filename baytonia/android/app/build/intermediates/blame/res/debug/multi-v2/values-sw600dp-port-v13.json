@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Desktop/pjXL/193510e35bf81956996aa49093954075/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-port-v13/values-sw600dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/Desktop/pjXL/193510e35bf81956996aa49093954075/android/app/src/main/res/values-sw600dp-port/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}

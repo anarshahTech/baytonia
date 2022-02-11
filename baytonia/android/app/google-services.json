@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025828174138",
+    "project_id": "baytonia-simicart-73f7f",
+    "storage_bucket": "baytonia-simicart-73f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025828174138:android:c9b52ce1d9dd7533a8b803",
+        "android_client_info": {
+          "package_name": "com.simicart.baytonia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025828174138-f66tovg5n4qnnlijut0lct8hm5fsq3c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvsaX44mBg9aNzPfI0_CuWy5CcjHLMaG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025828174138-f66tovg5n4qnnlijut0lct8hm5fsq3c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
